@@ -106,7 +106,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,bootstrap,nodejs,express,laravel,php,java,python,supabase,prisma,graphql,mongodb,mysql,postgres,docker,vercel,github,postman,stripe,mercadopago,cloudinary&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,astro,tailwind,bootstrap,nodejs,express,laravel,php,java,python,r,supabase,prisma,graphql,mongodb,mysql,postgres,docker,vercel,github,postman,redis,wordpress,stripe,mercadopago,cloudinary&perline=14" />
   </a>
 </p>
 

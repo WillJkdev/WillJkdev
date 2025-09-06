@@ -38,6 +38,10 @@
 - 🏠 También puedes ver mis proyectos y código en mi perfil de GitHub.
 <!--Intro end-->
 
+<p align="center"><strong>📌 Rol:</strong> Desarrollador Full‑Stack / Mid‑Level | Especializado en e‑commerce y despliegues en la nube</p>
+
+<p align="center"><em>Me especializo en crear soluciones escalables para e‑commerce y proyectos web, aplicando arquitecturas limpias y despliegues ágiles. Trabajo con equipos pequeños y proyectos cross‑functional donde puedo aportar desde el diseño de APIs hasta la entrega en producción.</em></p>
+
 ---
 
 <!-- Lenguajes más usados -->
@@ -104,6 +108,26 @@
   </ul>
 </div>
 
+### Backend / APIs
+
+* Node.js, Express, Laravel, PHP, Prisma, Supabase
+
+### Frontend
+
+* React, Next.js, Astro, TypeScript, Tailwind CSS, Bootstrap
+
+### Infra & Despliegue
+
+* Vercel, Docker, Cloudflare, GitHub Actions (CI/CD), Fly.io
+
+### Bases de datos
+
+* MySQL, PostgreSQL, SQLite, MongoDB, Redis
+
+### Herramientas & Testing
+
+* Git, Postman, Stripe, MercadoPago, Cloudinary
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,astro,tailwind,bootstrap,nodejs,express,laravel,php,java,python,r,supabase,prisma,graphql,mongodb,mysql,postgres,docker,vercel,github,postman,redis,wordpress,stripe,mercadopago,cloudinary&perline=14" />
@@ -119,14 +143,55 @@
   </ul>
 </div>
 
-- **ToDo-App** — App de tareas (JavaScript).  
-- **API-REST_Movies** — API REST para gestión de películas (JavaScript / Node).  
-- **Blog-Articles** — Sitio con Astro (sitio estático / blog).  
-- **laravel-crud-api** — API CRUD en Laravel (PHP).  
-- **laravel-simple-reddit-clone** — Clon simple tipo Reddit (TypeScript / Laravel).  
-- **laravel-crud-products-bootstrap** — CRUD de productos con Bootstrap (PHP).
+Aquí algunos de mis proyectos más representativos, que combinan desarrollo **Full-Stack**, **SaaS**, **IA aplicada** y **e-commerce**:
+
+### 🔑 Principales
+
+- **[Stripe SaaS Starter con Next.js 15](https://github.com/WillJkdev/simple-nextjs-stripe.git)**  
+  SaaS completo con pagos y suscripciones en Stripe, Prisma, NextAuth, Shadcn/UI y TanStack.  
+  *(Stack: Next.js 15, Stripe, Prisma, Tailwind, Shadcn)*
+
+- **[Simple Landing Conference - Next.js 15 App](https://github.com/WillJkdev/landing-conference-nextjs.git)**  
+  Plataforma para eventos: tickets, pagos con MercadoPago, emails y dashboard administrativo.  
+  *(Stack: Next.js 15, MercadoPago, Resend, Prisma)*
+
+- **[Foro en Laravel 12 con Inertia.js y React](https://github.com/WillJkdev/laravel-simple-reddit-clone.git)**  
+  Sistema de foros moderno con autenticación, roles, permisos y gestión de usuarios.  
+  *(Stack: Laravel 12, Inertia.js, React, Tailwind)*
+
+- **[Sistema de Tickets de Soporte - NestJS](https://github.com/WillJkdev/support-ticket-system.git)**  
+  Backend para gestión de tickets con historial de respuestas, JWT y notificaciones vía email.  
+  *(Stack: NestJS, Prisma, Resend, PostgreSQL/SQLite)*
+
+- **[Habla con tu PDF - Sistema RAG](https://github.com/WillJkdev/habla-con-tu-pdf.git)**  
+  Proyecto de IA aplicada que permite hacer preguntas a documentos PDF usando RAG con FastAPI y LangChain.  
+  *(Stack: FastAPI, LangChain, Supabase, Next.js)*
+
+- **[Sistema de Control de Stock](https://github.com/WillJkdev/stock-control-system.git)**  
+  App de gestión de inventario con control de entradas, salidas y reportes en tiempo real.  
+  *(Stack: React, Supabase, Tailwind, Zustand)*
+
+- **[Buscador Inteligente de Películas con IA Semántica](https://github.com/WillJkdev/cine-search-ai.git)**  
+  Buscador que combina embeddings, Supabase y Gemini para resultados más precisos.  
+  *(Stack: Next.js, Supabase, Gemini AI)*
+
+- **[Blog Articles](https://github.com/WillJkdev/Blog-Articles)**  
+  Blog minimalista con autenticación, base de datos y dashboard para gestión de artículos.  
+  *(Stack: Astro 5, SQLite, Auth, Tailwind)*
 
 ---
+
+### 🔭 Actualmente aprendiendo
+
+* Arquitecturas escalables (serverless y serverful), patrones de diseño, y mejores prácticas de CI/CD.
+* Profundizando en observabilidad y monitoreo de aplicaciones en producción.
+
+### 🤝 Colaboremos
+
+Siempre abierto a feedback, colaboraciones o charlas técnicas. Si tienes un proyecto o idea, me encantaría conectar y aportar.
+
+---
+
 
 <!-- Conéctate conmigo -->
 <div id="user-content-toc">

@@ -70,6 +70,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,astro,tailwind,bootstrap,nodejs,express,laravel,php,java,python,r,supabase,prisma,graphql,mongodb,mysql,postgres,sqlite,docker,vercel,cloudflare,git,github,githubactions,postman,redis,wordpress&perline=14" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF684B?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=Stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Mercado_Pago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
 
 ---
 

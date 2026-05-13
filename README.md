@@ -32,7 +32,7 @@
 - 🔭 Actualmente trabajo en proyectos full-stack y deployments (React, Next.js, Laravel, Supabase, Vercel).
 - 🌱 Estoy aprendiendo y consolidando prácticas para aplicaciones escalables: arquitectura, CI/CD y buenas prácticas con infra y cloud.
 - ☁️ Interés en computación en la nube y despliegue (Vercel, Docker, Cloudflare).
-- 📝 Mantengo mi portafolio y repositorios públicos en GitHub: [willjk.pages.dev](https://willjk.pages.dev/) y https://github.com/willJkdev
+- 📝 Mantengo mi portafolio y repositorios públicos en GitHub: [willjk.pages.dev](https://willstack.dev/) y https://github.com/willJkdev
 - 💬 Pregúntame sobre **React, Next.js, Laravel, Node.js, Supabase, Prisma, Tailwind CSS** y despliegues.
 - 📫 Contacto: revisa la sección "Contacto" en mi portafolio.
 - 🏠 También puedes ver mis proyectos y código en mi perfil de GitHub.

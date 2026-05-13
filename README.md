@@ -34,7 +34,7 @@
 - ☁️ Interés en computación en la nube y despliegue (Vercel, Docker, Cloudflare).
 - 📝 Mantengo mi portafolio y repositorios públicos en GitHub: [willstack.dev](https://willstack.dev/) y https://github.com/willJkdev
 - 💬 Pregúntame sobre **React, Next.js, Laravel, Node.js, Supabase, Prisma, Tailwind CSS** y despliegues.
-- 📫 Contacto: revisa la sección "Contacto" en mi portafolio.
+- 📫 Contacto: escríbeme a [contact@willstack.dev](mailto:contact@willstack.dev)
 - 🏠 También puedes ver mis proyectos y código en mi perfil de GitHub.
 <!--Intro end-->
 
@@ -52,9 +52,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willJkdev&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
-  </a>
+  <img src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -74,14 +72,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willJkdev&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api?username=willJkdev&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=willJkdev&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=willJkdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -202,7 +200,7 @@ Siempre abierto a feedback, colaboraciones o charlas técnicas. Si tienes un pro
 
 
 <p align="center">
-  <a href="https://willjk.pages.dev/" target="_blank">
+  <a href="https://willstack.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" alt="portfolio" height="50" />
   </a>
   <a href="https://www.linkedin.com/in/williamsjpm/" target="_blank">

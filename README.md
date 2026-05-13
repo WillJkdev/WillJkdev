@@ -199,13 +199,13 @@ Siempre abierto a feedback, colaboraciones o charlas técnicas. Si tienes un pro
 
 <p align="center">
   <a href="https://willstack.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" />
+    <img title="Visitar Portafolio Web" src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/williamsjpm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img title="Ver perfil de LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:contact@willstack.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img title="Enviarme un correo" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
@@ -213,5 +213,5 @@ Siempre abierto a feedback, colaboraciones o charlas técnicas. Si tienes un pro
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=willJkdev&color=blueviolet&style=flat-square&label=VISITAS+AL+PERFIL" alt="Profile views" />
+  <img title="Visitas a mi perfil de GitHub" src="https://komarev.com/ghpvc/?username=willJkdev&color=blueviolet&style=flat-square&label=VISITAS+AL+PERFIL" alt="Profile views" />
 </p>

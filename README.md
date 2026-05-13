@@ -10,16 +10,12 @@
 
 <!--- snake -->
 <div align="center">
-
-  <!-- versión para modo claro -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillJkdev/WillJkdev/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillJkdev/WillJkdev/output/github-contribution-grid-snake.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/WillJkdev/WillJkdev/output/github-contribution-grid-snake.svg" />
   </picture>
-
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -28,103 +24,48 @@
   </ul>
 </div>
 
-<!--Intro start-->
-- 🔭 Actualmente trabajo en proyectos full-stack y deployments (React, Next.js, Laravel, Supabase, Vercel).
-- 🌱 Estoy aprendiendo y consolidando prácticas para aplicaciones escalables: arquitectura, CI/CD y buenas prácticas con infra y cloud.
-- ☁️ Interés en computación en la nube y despliegue (Vercel, Docker, Cloudflare).
-- 📝 Mantengo mi portafolio y repositorios públicos en GitHub: [willstack.dev](https://willstack.dev/) y https://github.com/willJkdev
-- 💬 Pregúntame sobre **React, Next.js, Laravel, Node.js, Supabase, Prisma, Tailwind CSS** y despliegues.
-- 📫 Contacto: escríbeme a [contact@willstack.dev](mailto:contact@willstack.dev)
-- 🏠 También puedes ver mis proyectos y código en mi perfil de GitHub.
-<!--Intro end-->
-
 <p align="center"><strong>📌 Rol:</strong> Desarrollador Full‑Stack / Mid‑Level | Especializado en e‑commerce y despliegues en la nube</p>
 
 <p align="center"><em>Me especializo en crear soluciones escalables para e‑commerce y proyectos web, aplicando arquitecturas limpias y despliegues ágiles. Trabajo con equipos pequeños y proyectos cross‑functional donde puedo aportar desde el diseño de APIs hasta la entrega en producción.</em></p>
 
+<!--Intro start-->
+- 🔭 **Actualmente trabajo en:** proyectos full-stack y deployments (React, Next.js, Laravel, Supabase, Vercel).
+- 🌱 **Estoy aprendiendo:** arquitecturas escalables (serverless y serverful), patrones de diseño, y observabilidad.
+- ☁️ **Me interesa:** computación en la nube, infraestructura y CI/CD (Docker, Cloudflare, GitHub Actions).
+- 📝 **Mi portafolio:** [willstack.dev](https://willstack.dev/)
+- 💬 **Pregúntame sobre:** React, Next.js, Laravel, Node.js, Supabase, Prisma, Tailwind CSS.
+<!--Intro end-->
+
 ---
 
-<!-- Lenguajes más usados -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">📊 Lenguajes más usados en mis repositorios</h2></summary>
+    <summary><h2 style="display: inline-block">📊 Mis Estadísticas</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-  <img src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&layout=compact&theme=radical&langs_count=8&v=1" alt="Top languages" />
-</p>
-
-<p align="center">
-  <b>Distribución real basada en líneas de código:</b><br>
-  • 🐘 PHP → ~65%<br>
-  • ⚛️ TypeScript → ~22%<br>
-  • 💛 JavaScript → ~2%<br>
-  • ⭐ Otros (Astro, CSS, Blade, HTML, Dockerfile) → ~11%
-</p>
-
----
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img align="center" src="https://my-github-stats-psi-six.vercel.app/api?username=willJkdev&theme=dark&show_icons=true&count_private=true&v=1" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=willJkdev&theme=dark&hide_border=false" /> 
+  <br><br>
+  <img title="🔥 Get streak stats for your profile" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=willJkdev&theme=dark&hide_border=false" /> 
 </td>
-
 <td width="50%" align="center">
-
-  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&v=1"/>
-  
-  </td>
+  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&layout=compact&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&v=1"/>
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!-- - trophy (start) -->
-<!-- <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=willJkdev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div> -->
-<!--- trophy (start) -->
-
 </p>        
-<!--- stats (end) -->
 
 ---
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">💻 Tecnologías que conozco</h2></summary>
   </ul>
 </div>
-
-### Backend / APIs
-
-* Node.js, Express, Laravel, PHP, Prisma, Supabase
-
-### Frontend
-
-* React, Next.js, Astro, TypeScript, Tailwind CSS, Bootstrap
-
-### Infra & Despliegue
-
-* Vercel, Docker, Cloudflare, GitHub Actions (CI/CD), Fly.io
-
-### Bases de datos
-
-* MySQL, PostgreSQL, SQLite, MongoDB, Redis
-
-### Herramientas & Testing
-
-* Git, Postman, Stripe, MercadoPago, Cloudinary
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -134,87 +75,52 @@
 
 ---
 
-<!-- Proyectos destacados -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">🚀 Proyectos destacados</h2></summary>
+    <summary><h2 style="display: inline-block">🚀 Proyectos Destacados</h2></summary>
   </ul>
 </div>
 
-Aquí algunos de mis proyectos más representativos, que combinan desarrollo **Full-Stack**, **SaaS**, **IA aplicada** y **e-commerce**:
+<p align="center"><em>Proyectos representativos que combinan Full-Stack, SaaS, IA aplicada y e-commerce:</em></p>
 
-### 🔑 Principales
-
-- **[Stripe SaaS Starter con Next.js 15](https://github.com/WillJkdev/simple-nextjs-stripe.git)**  
-  SaaS completo con pagos y suscripciones en Stripe, Prisma, NextAuth, Shadcn/UI y TanStack.  
-  *(Stack: Next.js 15, Stripe, Prisma, Tailwind, Shadcn)*
-
-- **[Simple Landing Conference - Next.js 15 App](https://github.com/WillJkdev/landing-conference-nextjs.git)**  
-  Plataforma para eventos: tickets, pagos con MercadoPago, emails y dashboard administrativo.  
-  *(Stack: Next.js 15, MercadoPago, Resend, Prisma)*
-
-- **[Foro en Laravel 12 con Inertia.js y React](https://github.com/WillJkdev/laravel-simple-reddit-clone.git)**  
-  Sistema de foros moderno con autenticación, roles, permisos y gestión de usuarios.  
-  *(Stack: Laravel 12, Inertia.js, React, Tailwind)*
-
-- **[Sistema de Tickets de Soporte - NestJS](https://github.com/WillJkdev/support-ticket-system.git)**  
-  Backend para gestión de tickets con historial de respuestas, JWT y notificaciones vía email.  
-  *(Stack: NestJS, Prisma, Resend, PostgreSQL/SQLite)*
-
-- **[Habla con tu PDF - Sistema RAG](https://github.com/WillJkdev/habla-con-tu-pdf.git)**  
-  Proyecto de IA aplicada que permite hacer preguntas a documentos PDF usando RAG con FastAPI y LangChain.  
-  *(Stack: FastAPI, LangChain, Supabase, Next.js)*
-
-- **[Sistema de Control de Stock](https://github.com/WillJkdev/stock-control-system.git)**  
-  App de gestión de inventario con control de entradas, salidas y reportes en tiempo real.  
-  *(Stack: React, Supabase, Tailwind, Zustand)*
-
-- **[Buscador Inteligente de Películas con IA Semántica](https://github.com/WillJkdev/cine-search-ai.git)**  
-  Buscador que combina embeddings, Supabase y Gemini para resultados más precisos.  
-  *(Stack: Next.js, Supabase, Gemini AI)*
-
-- **[Blog Articles](https://github.com/WillJkdev/Blog-Articles)**  
-  Blog minimalista con autenticación, base de datos y dashboard para gestión de artículos.  
-  *(Stack: Astro 5, SQLite, Auth, Tailwind)*
+| Proyecto | Descripción & Stack |
+|:---|:---|
+| 💳 **[Stripe SaaS Starter](https://github.com/WillJkdev/simple-nextjs-stripe.git)** | SaaS completo con pagos y suscripciones en Stripe.<br>*(Next.js 15, Stripe, Prisma, Tailwind, Shadcn)* |
+| 🎫 **[Simple Landing Conference](https://github.com/WillJkdev/landing-conference-nextjs.git)** | Plataforma para eventos: tickets, pagos con MercadoPago.<br>*(Next.js 15, MercadoPago, Resend, Prisma)* |
+| 💬 **[Foro en Laravel 12](https://github.com/WillJkdev/laravel-simple-reddit-clone.git)** | Sistema de foros moderno con autenticación, roles, permisos.<br>*(Laravel 12, Inertia.js, React, Tailwind)* |
+| 🎟️ **[Sistema de Tickets - NestJS](https://github.com/WillJkdev/support-ticket-system.git)** | Backend para gestión de tickets con historial y notificaciones.<br>*(NestJS, Prisma, Resend, PostgreSQL)* |
+| 🤖 **[Habla con tu PDF - RAG](https://github.com/WillJkdev/habla-con-tu-pdf.git)** | Proyecto de IA aplicada para PDFs usando RAG.<br>*(FastAPI, LangChain, Supabase, Next.js)* |
+| 📦 **[Sistema de Control de Stock](https://github.com/WillJkdev/stock-control-system.git)** | App de gestión de inventario en tiempo real.<br>*(React, Supabase, Tailwind, Zustand)* |
+| 🎬 **[Buscador Inteligente IA](https://github.com/WillJkdev/cine-search-ai.git)** | Buscador de películas con embeddings y Supabase.<br>*(Next.js, Supabase, Gemini AI)* |
+| 📝 **[Blog Articles](https://github.com/WillJkdev/Blog-Articles)** | Blog minimalista con dashboard administrativo.<br>*(Astro 5, SQLite, Auth, Tailwind)* |
 
 ---
 
-### 🔭 Actualmente aprendiendo
-
-* Arquitecturas escalables (serverless y serverful), patrones de diseño, y mejores prácticas de CI/CD.
-* Profundizando en observabilidad y monitoreo de aplicaciones en producción.
-
-### 🤝 Colaboremos
-
-Siempre abierto a feedback, colaboraciones o charlas técnicas. Si tienes un proyecto o idea, me encantaría conectar y aportar.
-
----
-
-
-<!-- Conéctate conmigo -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate conmigo 🤝</h2></summary>
+    <summary><h2 style="display: inline-block">🤝 Conéctate conmigo</h2></summary>
   </ul>
 </div>
 
+<p align="center">
+Siempre abierto a feedback, colaboraciones o charlas técnicas. Si tienes un proyecto o idea, me encantaría conectar.
+</p>
 
 <p align="center">
   <a href="https://willstack.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="portfolio" height="50" />
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/williamsjpm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://github.com/willJkdev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="github" height="50" />
+  <a href="mailto:contact@willstack.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
-
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=willJkdev&color=blueviolet&style=flat-square&label=VISITAS+AL+PERFIL" alt="Profile views" />
+</p>

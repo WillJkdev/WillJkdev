@@ -52,7 +52,7 @@
 </div>
 
 <p align="center">
-  <img src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
+  <img src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&layout=compact&theme=radical&langs_count=8&v=1" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -72,14 +72,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api?username=willJkdev&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api?username=willJkdev&theme=dark&show_icons=true&count_private=true&v=1" />
   <br></br>
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=willJkdev&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://my-github-stats-psi-six.vercel.app/api/top-langs/?username=willJkdev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&v=1"/>
   
   </td>
 </tr>

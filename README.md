@@ -68,7 +68,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,astro,tailwind,bootstrap,nodejs,express,laravel,php,java,python,r,supabase,prisma,graphql,mongodb,mysql,postgres,sqlite,docker,n8n,vercel,cloudflare,git,github,githubactions,postman,redis,wordpress,stripe,mercadopago,cloudinary&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,astro,tailwind,bootstrap,nodejs,express,laravel,php,java,python,r,supabase,prisma,graphql,mongodb,mysql,postgres,sqlite,docker,vercel,cloudflare,git,github,githubactions,postman,redis,wordpress&perline=14" />
 </p>
 
 ---

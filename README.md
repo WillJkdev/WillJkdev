@@ -18,22 +18,22 @@
 </div>
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
-  </ul>
-</div>
-
-<p align="center"><strong>📌 Rol:</strong> Desarrollador Full‑Stack / Mid‑Level | Especializado en e‑commerce y despliegues en la nube</p>
+<p align="center">
+  <a href="https://github.com/WillJkdev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Desarrollador+Full-Stack+%2F+Mid-Level;Especializado+en+E-commerce+y+Cloud;La+confusi%C3%B3n+es+parte+de+la+programaci%C3%B3n;Construyendo+soluciones+escalables" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center"><em>Me especializo en crear soluciones escalables para e‑commerce y proyectos web, aplicando arquitecturas limpias y despliegues ágiles. Trabajo con equipos pequeños y proyectos cross‑functional donde puedo aportar desde el diseño de APIs hasta la entrega en producción.</em></p>
 
 <!--Intro start-->
-- 🔭 **Actualmente trabajo en:** proyectos full-stack y deployments (React, Next.js, Laravel, Supabase, Vercel).
-- 🌱 **Estoy aprendiendo:** arquitecturas escalables (serverless y serverful), patrones de diseño, y observabilidad.
-- ☁️ **Me interesa:** computación en la nube, infraestructura y CI/CD (Docker, Cloudflare, GitHub Actions).
-- 📝 **Mi portafolio:** [willstack.dev](https://willstack.dev/)
-- 💬 **Pregúntame sobre:** React, Next.js, Laravel, Node.js, Supabase, Prisma, Tailwind CSS.
+<p align="center">
+  🔭 <b>Actualmente trabajo en:</b> proyectos full-stack y deployments (React, Next.js, Laravel, Supabase, Vercel)<br>
+  🌱 <b>Estoy aprendiendo:</b> arquitecturas escalables (serverless y serverful), patrones de diseño, y observabilidad<br>
+  ☁️ <b>Me interesa:</b> computación en la nube, infraestructura y CI/CD (Docker, Cloudflare, GitHub Actions)<br>
+  📝 <b>Mi portafolio:</b> <a href="https://willstack.dev/">willstack.dev</a><br>
+  💬 <b>Pregúntame sobre:</b> React, Next.js, Laravel, Node.js, Supabase, Prisma, Tailwind CSS
+</p>
 <!--Intro end-->
 
 ---
@@ -63,18 +63,66 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">💻 Tecnologías que conozco</h2></summary>
+    <summary><h2 style="display: inline-block">💻 Tecnologías y Herramientas</h2></summary>
   </ul>
 </div>
 
+<h3 align="center">🌐 Frontend & UI</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nestjs,astro,tailwind,bootstrap,nodejs,express,laravel,php,java,python,r,supabase,prisma,graphql,mongodb,mysql,postgres,sqlite,docker,vercel,cloudflare,git,github,githubactions,postman,redis,wordpress&perline=14" />
+  <img title="HTML5" src="https://skillicons.dev/icons?i=html" />
+  <img title="CSS3" src="https://skillicons.dev/icons?i=css" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+  <img title="React" src="https://skillicons.dev/icons?i=react" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="Astro" src="https://skillicons.dev/icons?i=astro" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
+
+<h3 align="center">⚙️ Backend & Frameworks</h3>
 <p align="center">
-  <img width="48" height="48" src="https://cdn.simpleicons.org/n8n/FF684B" alt="n8n" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/mercadopago/009EE3" alt="MercadoPago" />
-  <img width="48" height="48" src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" />
+  <img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+  <img title="Express" src="https://skillicons.dev/icons?i=express" />
+  <img title="NestJS" src="https://skillicons.dev/icons?i=nestjs" />
+  <img title="PHP" src="https://skillicons.dev/icons?i=php" />
+  <img title="Laravel" src="https://skillicons.dev/icons?i=laravel" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python" />
+  <img title="R" src="https://skillicons.dev/icons?i=r" />
+</p>
+
+<h3 align="center">🗄️ Bases de Datos & Arquitectura</h3>
+<p align="center">
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+  <img title="SQLite" src="https://skillicons.dev/icons?i=sqlite" />
+  <img title="Redis" src="https://skillicons.dev/icons?i=redis" />
+  <img title="Supabase" src="https://skillicons.dev/icons?i=supabase" />
+  <img title="Prisma" src="https://skillicons.dev/icons?i=prisma" />
+  <img title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
+</p>
+
+<h3 align="center">☁️ Infraestructura & DevOps</h3>
+<p align="center">
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
+  <img title="Vercel" src="https://skillicons.dev/icons?i=vercel" />
+  <img title="Cloudflare" src="https://skillicons.dev/icons?i=cloudflare" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
+  <img title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" />
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman" />
+</p>
+
+<h3 align="center">🧩 APIs, IA & Ecosistema</h3>
+<p align="center">
+  <img title="Stripe" src="assets/icons/stripe.svg" />
+  <img title="MercadoPago" src="assets/icons/mercadopago.svg" />
+  <img title="Cloudinary" src="assets/icons/cloudinary.svg" />
+  <img title="n8n" src="assets/icons/n8n.svg" />
+  <img title="LangChain" src="assets/icons/langchain.svg" />
+  <img title="WordPress" src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 
 ---
@@ -87,16 +135,55 @@
 
 <p align="center"><em>Proyectos representativos que combinan Full-Stack, SaaS, IA aplicada y e-commerce:</em></p>
 
-| Proyecto | Descripción & Stack |
-|:---|:---|
-| 💳 **[Stripe SaaS Starter](https://github.com/WillJkdev/simple-nextjs-stripe.git)** | SaaS completo con pagos y suscripciones en Stripe.<br>*(Next.js 15, Stripe, Prisma, Tailwind, Shadcn)* |
-| 🎫 **[Simple Landing Conference](https://github.com/WillJkdev/landing-conference-nextjs.git)** | Plataforma para eventos: tickets, pagos con MercadoPago.<br>*(Next.js 15, MercadoPago, Resend, Prisma)* |
-| 💬 **[Foro en Laravel 12](https://github.com/WillJkdev/laravel-simple-reddit-clone.git)** | Sistema de foros moderno con autenticación, roles, permisos.<br>*(Laravel 12, Inertia.js, React, Tailwind)* |
-| 🎟️ **[Sistema de Tickets - NestJS](https://github.com/WillJkdev/support-ticket-system.git)** | Backend para gestión de tickets con historial y notificaciones.<br>*(NestJS, Prisma, Resend, PostgreSQL)* |
-| 🤖 **[Habla con tu PDF - RAG](https://github.com/WillJkdev/habla-con-tu-pdf.git)** | Proyecto de IA aplicada para PDFs usando RAG.<br>*(FastAPI, LangChain, Supabase, Next.js)* |
-| 📦 **[Sistema de Control de Stock](https://github.com/WillJkdev/stock-control-system.git)** | App de gestión de inventario en tiempo real.<br>*(React, Supabase, Tailwind, Zustand)* |
-| 🎬 **[Buscador Inteligente IA](https://github.com/WillJkdev/cine-search-ai.git)** | Buscador de películas con embeddings y Supabase.<br>*(Next.js, Supabase, Gemini AI)* |
-| 📝 **[Blog Articles](https://github.com/WillJkdev/Blog-Articles)** | Blog minimalista con dashboard administrativo.<br>*(Astro 5, SQLite, Auth, Tailwind)* |
+<div align="center">
+<table align="center">
+  <tr>
+    <th align="center">🌟</th>
+    <th align="left">Proyecto</th>
+    <th align="left">Descripción & Stack</th>
+  </tr>
+  <tr>
+    <td align="center"><img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" width="35"/></td>
+    <td>💳 <b><a href="https://github.com/WillJkdev/simple-nextjs-stripe.git">Stripe SaaS Starter</a></b></td>
+    <td>SaaS completo con pagos y suscripciones en Stripe.<br><em>(Next.js 15, Stripe, Prisma, Tailwind, Shadcn)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img title="React" src="https://skillicons.dev/icons?i=react" width="35"/></td>
+    <td>🎫 <b><a href="https://github.com/WillJkdev/landing-conference-nextjs.git">Simple Landing Conference</a></b></td>
+    <td>Plataforma para eventos: tickets, pagos con MercadoPago.<br><em>(Next.js 15, MercadoPago, Resend, Prisma)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img title="Laravel" src="https://skillicons.dev/icons?i=laravel" width="35"/></td>
+    <td>💬 <b><a href="https://github.com/WillJkdev/laravel-simple-reddit-clone.git">Foro en Laravel 12</a></b></td>
+    <td>Sistema de foros moderno con autenticación, roles, permisos.<br><em>(Laravel 12, Inertia.js, React, Tailwind)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img title="NestJS" src="https://skillicons.dev/icons?i=nestjs" width="35"/></td>
+    <td>🎟️ <b><a href="https://github.com/WillJkdev/support-ticket-system.git">Sistema de Tickets - NestJS</a></b></td>
+    <td>Backend para gestión de tickets con historial y notificaciones.<br><em>(NestJS, Prisma, Resend, PostgreSQL)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img title="Python" src="https://skillicons.dev/icons?i=python" width="35"/></td>
+    <td>🤖 <b><a href="https://github.com/WillJkdev/habla-con-tu-pdf.git">Habla con tu PDF - RAG</a></b></td>
+    <td>Proyecto de IA aplicada para PDFs usando RAG.<br><em>(FastAPI, LangChain, Supabase, Next.js)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img title="React" src="https://skillicons.dev/icons?i=react" width="35"/></td>
+    <td>📦 <b><a href="https://github.com/WillJkdev/stock-control-system.git">Sistema de Control de Stock</a></b></td>
+    <td>App de gestión de inventario en tiempo real.<br><em>(React, Supabase, Tailwind, Zustand)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img title="Supabase" src="https://skillicons.dev/icons?i=supabase" width="35"/></td>
+    <td>🎬 <b><a href="https://github.com/WillJkdev/cine-search-ai.git">Buscador Inteligente IA</a></b></td>
+    <td>Buscador de películas con embeddings y Supabase.<br><em>(Next.js, Supabase, Gemini AI)</em></td>
+  </tr>
+  <tr>
+    <td align="center"><img title="Astro" src="https://skillicons.dev/icons?i=astro" width="35"/></td>
+    <td>📝 <b><a href="https://github.com/WillJkdev/Blog-Articles">Blog Articles</a></b></td>
+    <td>Blog minimalista con dashboard administrativo.<br><em>(Astro 5, SQLite, Auth, Tailwind)</em></td>
+  </tr>
+</table>
+</div>
 
 ---
 
